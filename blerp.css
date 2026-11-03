@@ -1,0 +1,21 @@
+body {
+    background-color: #000000;
+    color: #00FF00;
+}
+
+a:link, a:visited {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+a:hover, a:focus {
+    color: #00FF00;
+    text-decoration: none;
+}
+
+@font-face {
+    font-family: 'Terminus';
+    src: url(terminus.ttf) format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
