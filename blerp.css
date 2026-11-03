@@ -14,7 +14,7 @@ a:hover, a:focus {
 }
 
 @font-face {
-    font-family: 'Terminus';
+    font-family: 'TerminusTTF Nerd Font';
     src: url(terminus.ttf) format('truetype');
     font-style: normal;
     font-weight: normal;
